@@ -1,0 +1,20 @@
+{
+  "name": "aws-uploader",
+  "version": "1.0.0",
+  "description": "a node script that uploads to aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uploader",
+    "aws",
+    "runner"
+  ],
+  "author": "Daniel Arbiol",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.666.0",
+    "inquirer": "^7.1.0"
+  }
+}
