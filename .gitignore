@@ -1,2 +1,6 @@
 # ignore dependencies
 node_modules/
+
+# ignore user dependent files
+config/
+content/
