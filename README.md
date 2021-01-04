@@ -9,6 +9,6 @@ An aws s3 file manager using accessId and secret written in nodejs with terminal
 ## Running the manager
  1. open the command prompt and navigate to to root forlder of this repo.
  2. start the app using the command `npm start`
- 3. From the starting options, you are prompted to use and existing config fiel or to manually type in aws s3 credentials.
+ 3. From the starting options, you are prompted to use and existing config file or to manually type in aws s3 credentials.
 
  >Note: The upload command will upload files that is in the `./content` folder.
